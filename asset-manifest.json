@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.981f7211.chunk.css",
-    "main.js": "./static/js/main.c183a874.chunk.js",
-    "main.js.map": "./static/js/main.c183a874.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.54d55149.js",
-    "runtime-main.js.map": "./static/js/runtime-main.54d55149.js.map",
-    "static/css/2.6bab1db4.chunk.css": "./static/css/2.6bab1db4.chunk.css",
-    "static/js/2.b88bf94d.chunk.js": "./static/js/2.b88bf94d.chunk.js",
-    "static/js/2.b88bf94d.chunk.js.map": "./static/js/2.b88bf94d.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.8136863c93d014decfab491c89adfb34.js": "./precache-manifest.8136863c93d014decfab491c89adfb34.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.6bab1db4.chunk.css.map": "./static/css/2.6bab1db4.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "./static/css/main.981f7211.chunk.css.map",
-    "static/js/2.b88bf94d.chunk.js.LICENSE.txt": "./static/js/2.b88bf94d.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "./static/media/persik.4e1ec840.png"
+    "main.css": "/hello-world-mini-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/hello-world-mini-app/static/js/main.c183a874.chunk.js",
+    "main.js.map": "/hello-world-mini-app/static/js/main.c183a874.chunk.js.map",
+    "runtime-main.js": "/hello-world-mini-app/static/js/runtime-main.584f2748.js",
+    "runtime-main.js.map": "/hello-world-mini-app/static/js/runtime-main.584f2748.js.map",
+    "static/css/2.6bab1db4.chunk.css": "/hello-world-mini-app/static/css/2.6bab1db4.chunk.css",
+    "static/js/2.bb1eae5e.chunk.js": "/hello-world-mini-app/static/js/2.bb1eae5e.chunk.js",
+    "static/js/2.bb1eae5e.chunk.js.map": "/hello-world-mini-app/static/js/2.bb1eae5e.chunk.js.map",
+    "index.html": "/hello-world-mini-app/index.html",
+    "precache-manifest.6bf86741fe6a56dbd2980a6efd6fab86.js": "/hello-world-mini-app/precache-manifest.6bf86741fe6a56dbd2980a6efd6fab86.js",
+    "service-worker.js": "/hello-world-mini-app/service-worker.js",
+    "static/css/2.6bab1db4.chunk.css.map": "/hello-world-mini-app/static/css/2.6bab1db4.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/hello-world-mini-app/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.bb1eae5e.chunk.js.LICENSE.txt": "/hello-world-mini-app/static/js/2.bb1eae5e.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/hello-world-mini-app/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.54d55149.js",
+    "static/js/runtime-main.584f2748.js",
     "static/css/2.6bab1db4.chunk.css",
-    "static/js/2.b88bf94d.chunk.js",
+    "static/js/2.bb1eae5e.chunk.js",
     "static/css/main.981f7211.chunk.css",
     "static/js/main.c183a874.chunk.js"
   ]
