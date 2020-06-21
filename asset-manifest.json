@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hello-world-mini-app/static/css/main.981f7211.chunk.css",
-    "main.js": "/hello-world-mini-app/static/js/main.c183a874.chunk.js",
-    "main.js.map": "/hello-world-mini-app/static/js/main.c183a874.chunk.js.map",
+    "main.js": "/hello-world-mini-app/static/js/main.2d7985c4.chunk.js",
+    "main.js.map": "/hello-world-mini-app/static/js/main.2d7985c4.chunk.js.map",
     "runtime-main.js": "/hello-world-mini-app/static/js/runtime-main.584f2748.js",
     "runtime-main.js.map": "/hello-world-mini-app/static/js/runtime-main.584f2748.js.map",
     "static/css/2.6bab1db4.chunk.css": "/hello-world-mini-app/static/css/2.6bab1db4.chunk.css",
     "static/js/2.bb1eae5e.chunk.js": "/hello-world-mini-app/static/js/2.bb1eae5e.chunk.js",
     "static/js/2.bb1eae5e.chunk.js.map": "/hello-world-mini-app/static/js/2.bb1eae5e.chunk.js.map",
     "index.html": "/hello-world-mini-app/index.html",
-    "precache-manifest.6bf86741fe6a56dbd2980a6efd6fab86.js": "/hello-world-mini-app/precache-manifest.6bf86741fe6a56dbd2980a6efd6fab86.js",
+    "precache-manifest.7ade5a1b5564e522dcc3c38f8a523dc8.js": "/hello-world-mini-app/precache-manifest.7ade5a1b5564e522dcc3c38f8a523dc8.js",
     "service-worker.js": "/hello-world-mini-app/service-worker.js",
     "static/css/2.6bab1db4.chunk.css.map": "/hello-world-mini-app/static/css/2.6bab1db4.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/hello-world-mini-app/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.6bab1db4.chunk.css",
     "static/js/2.bb1eae5e.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.c183a874.chunk.js"
+    "static/js/main.2d7985c4.chunk.js"
   ]
 }
